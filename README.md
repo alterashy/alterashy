@@ -8,7 +8,7 @@ I'm a passionate web developer with a focus on building scalable and user-friend
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [maulayasyifa.mail@gmail.com](mailto:maulayasyifa.mail@gmail.com)
-* 🧠  I'm learning React & Vue
+* 🧠  I'm learning React & Express
 
 ### Skills
 
@@ -30,10 +30,12 @@ I'm a passionate web developer with a focus on building scalable and user-friend
 
 <a href="https://github.com/alterashy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alterashy&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alterashy&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/username"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/username"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="125"/></a></li>
 
 </ul>
